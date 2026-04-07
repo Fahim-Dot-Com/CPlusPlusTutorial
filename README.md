@@ -50,6 +50,37 @@ Inside this repo, you'll work through topics like:
 - 📂 File handling
 - 🚀 Intermediate C++ concepts
 
+
+
+## 🧰 Tools used in this repo
+
+This repo is written in C++ and is best used with a code editor and a C++ compiler.
+
+What I use
+
+You can mention your own setup here. For example:
+
+Editor: VS Code
+Compiler: g++
+Extensions: C/C++ extension in VS Code
+Terminal: VS Code terminal or system terminal
+What learners can use
+
+You do not need to use the exact same setup. You can follow this repo with many common tools, such as:
+
+Code editors / IDEs
+VS Code
+Code::Blocks
+CLion
+Visual Studio
+Replit
+Any editor that supports C++
+Compilers
+g++ (very common for beginners)
+MinGW on Windows
+GCC
+MSVC with Visual Studio
+clang++
 ---
 
 ## 🛣️ Learning path
