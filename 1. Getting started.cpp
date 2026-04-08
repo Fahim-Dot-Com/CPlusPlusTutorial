@@ -5,7 +5,7 @@ Learn what C++ is, how it works, and write your first simple programs.
 #include <iostream>   // Iostream gives access to input/output tools like std::cout
 
 int main() {          // The main function: where the program starts running
-    std::cout << "I like pizza!";  // Prints the text to the console
+    std::cout << "I like pizza!" '\n';  // Prints the text to the console
     return 0;         // Ends the program successfully
 }                     // Closing brace for main
 
