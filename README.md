@@ -68,20 +68,24 @@ What learners can use
 
 You do not need to use the exact same setup. You can follow this repo with many common tools, such as:
 
-Code editors / IDEs
+## Code editors / IDE
+
+Code editors / IDEs:
+
 VS Code
 Code::Blocks
 CLion
 Visual Studio
 Replit
 Any editor that supports C++
+
 Compilers
+
 g++ (very common for beginners)
 MinGW on Windows
 GCC
 MSVC with Visual Studio
-clang++
----
+clang++ for MacOS users
 
 ## 🛣️ Learning path
 
