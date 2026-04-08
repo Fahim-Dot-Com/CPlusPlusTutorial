@@ -72,24 +72,24 @@ You do not need to use the exact same setup. You can follow this repo with many 
 
 Code editors / IDEs:
 
-*VS Code*
-*Code::Blocks*
-*CLion*
-*Visual Studio*
-*Replit*
-Any editor that supports C++
+- VS Code
+- Code::Blocks
+- CLion
+- Visual Studio
+- Replit
+- Any editor that supports C++
 
 ## Compilers
 
-*g++ (very common for beginners)*
-*MinGW on Windows*
-*GCC*
-*MSVC with Visual Studio*
-*clang++ for MacOS users*
+- g++ (very common for beginners)
+- MinGW on Windows
+- GCC
+- MSVC with Visual Studio
+- clang++ for MacOS users
 
 ## 🛣️ Learning path
 
 A great way to use this repo is:
 
 ```text
-Start → Learn → Code → Test → Fix → Repeat → Improve
+Start → Learn → Code → Test → Fix → Repeat → Improve!
