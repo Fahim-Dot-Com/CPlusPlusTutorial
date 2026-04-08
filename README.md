@@ -87,8 +87,150 @@ Code editors / IDEs:
 - MSVC with Visual Studio
 - clang++ for MacOS users
 
-## 🛣️ Learning path
+## 🛣️ Learning path & Course Roadmap
 
+This repo follows a step-by-step path through C++.
+
+---
+
+### 1. Getting started
+Learn what C++ is, how it works, and write your first simple programs.
+
+- C++ tutorial for beginners 👨‍💻
+- Variables and basic data types
+- Const
+- Namespaces
+- Typedef and type aliases
+
+---
+
+### 2. Core operations and input
+Learn how to work with values, calculations, and user input.
+
+- Arithmetic operators
+- Type conversion
+- User input
+- Useful math related functions
+- Hypotenuse calculator practice program
+
+---
+
+### 3. Decision making
+Learn how programs make choices.
+
+- If statements
+- Switches
+- Ternary operator
+- Logical operators
+- Temperature conversion program
+- Console calculator program
+
+---
+
+### 4. Strings and text
+Learn how to work with text in C++.
+
+- Useful string methods in C++
+
+---
+
+### 5. Loops and repetition
+Learn how to repeat actions in your code.
+
+- While loops
+- Do while loops
+- For loops
+- Break & continue
+- Nested loops
+- Random number generator
+- Random event generator
+- Number guessing game
+
+---
+
+### 6. Functions
+Learn how to organize code into reusable parts.
+
+- User defined functions
+- Return keyword
+- Overloaded functions
+- Variable scope
+- Banking practice program
+- ROCK PAPER SCISSORS game
+
+---
+
+### 7. Arrays and collections
+Learn how to store and work with multiple values.
+
+- Arrays
+- Sizeof() operator
+- Iterate over an array
+- Foreach loop
+- Pass array to a function
+- Search an array for an element
+- Sort an array
+- Fill() function
+- Fill an array with user input
+- Multidimensional arrays
+- QUIZ GAME
+
+---
+
+### 8. Memory and references
+Learn how memory works and how data is passed around.
+
+- Memory addresses
+- Pass by VALUE vs pass by REFERENCE
+- Const parameters
+- Credit card validator program
+- Pointers
+- Null pointers
+- Dynamic memory
+
+---
+
+### 9. More advanced functions and reusable code
+Start using more powerful function features.
+
+- Recursion
+- Function templates
+
+---
+
+### 10. Custom data types
+Learn how to create and organize your own types.
+
+- Structs
+- Pass structs as arguments
+- Enums
+
+---
+
+### 11. Object-oriented programming
+Learn how to build programs using classes and objects.
+
+- Object Oriented Programming
+- Constructors
+- Constructor overloading
+- Getters & setters
+- Inheritance
+
+---
+
+### 12. Practice projects
+Use what you’ve learned in small projects and games.
+
+- Hypotenuse calculator practice program
+- Console calculator program
+- Temperature conversion program
+- Random event generator
+- Number guessing game
+- Banking practice program
+- ROCK PAPER SCISSORS game
+- QUIZ GAME
+- Credit card validator program
+- TIC TAC TOE game
 A great way to use this repo is:
 
 ```text
